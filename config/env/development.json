@@ -1,7 +1,7 @@
 {
     "db": "mongodb://localhost/mean-dev",
     "app": {
-        "name": "MEAN - A Modern Stack - Development"
+        "name": "交大吃吃 - Development"
     },
     "facebook": {
         "clientID": "APP_ID",
